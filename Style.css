@@ -27,8 +27,8 @@ body {
 }
 
 h1, h2, h3 {
+    color: var(--heading-color);
     font-weight: 600;
-    color: lightblue;
 }
 
 a {
@@ -381,8 +381,4 @@ a:hover {
     .contact-form .btn-primary {
         align-self: center;
     }
-}
-
-h1 {
-  color: lightblue;
 }
